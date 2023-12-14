@@ -1,0 +1,1160 @@
+Entity,Code,Year,EV machine tech,EV storage,EV management,EV communication tech,EV charging stations
+Africa,,2001,3,,3,1,2
+Africa,,2003,1,2,1,,
+Africa,,2004,3,4,2,1,4
+Africa,,2005,2,,,2,1
+Africa,,2006,2,5,4,5,5
+Africa,,2007,9,11,9,3,7
+Africa,,2008,4,2,2,2,1
+Africa,,2009,1,5,3,,4
+Africa,,2010,4,8,3,1,5
+Africa,,2011,18,18,12,5,32
+Africa,,2012,20,24,9,5,26
+Africa,,2013,12,13,8,5,7
+Africa,,2014,13,15,4,5,19
+Africa,,2015,7,7,4,4,5
+Africa,,2016,4,4,,2,5
+Africa,,2017,5,5,2,3,5
+Africa,,2018,5,9,4,7,13
+Africa,,2019,4,9,3,5,10
+Africa,,2002,,1,2,,1
+Africa,,2000,,,2,1,1
+Argentina,ARG,2003,2,3,,1,4
+Argentina,ARG,2006,1,1,,1,3
+Argentina,ARG,2009,6,10,1,,6
+Argentina,ARG,2010,14,17,5,11,32
+Argentina,ARG,2011,1,3,,,1
+Argentina,ARG,2012,1,4,,,4
+Argentina,ARG,2013,3,5,2,2,6
+Argentina,ARG,2015,2,2,1,1,2
+Argentina,ARG,2016,1,1,,,1
+Argentina,ARG,2017,2,9,2,3,3
+Argentina,ARG,2018,2,2,,2,4
+Argentina,ARG,2000,,1,,,1
+Argentina,ARG,2001,,2,,3,1
+Argentina,ARG,2002,,1,,,1
+Argentina,ARG,2007,,1,,,1
+Argentina,ARG,2008,,1,,,
+Argentina,ARG,2019,,1,1,1,
+Argentina,ARG,2005,,,1,,
+Asia,,2000,341,513,391,68,416
+Asia,,2001,398,618,436,98,442
+Asia,,2002,426,675,495,89,523
+Asia,,2003,566,771,655,117,740
+Asia,,2004,537,799,598,105,726
+Asia,,2005,708,1009,698,124,685
+Asia,,2006,1161,1778,1028,201,1037
+Asia,,2007,1482,1879,1200,283,1163
+Asia,,2008,1772,2330,1295,433,1491
+Asia,,2009,1850,2856,1398,449,1910
+Asia,,2010,2490,4129,1795,810,2903
+Asia,,2011,3427,5985,2701,1303,4053
+Asia,,2012,3510,6009,2713,1415,4182
+Asia,,2013,3100,5613,2399,1059,3584
+Asia,,2014,3135,5700,2553,1156,3681
+Asia,,2015,2959,6125,2513,1105,3742
+Asia,,2016,3799,8623,2993,1589,6616
+Asia,,2017,5335,12270,3483,2152,10613
+Asia,,2018,7330,13861,3718,2691,15795
+Asia,,2019,8174,16576,3486,2951,19421
+Asia,,2020,5451,12835,2032,1846,15373
+Asia,,2021,368,930,149,119,1146
+Australia,AUS,2000,31,33,27,11,33
+Australia,AUS,2001,37,62,27,14,49
+Australia,AUS,2002,30,46,18,11,29
+Australia,AUS,2003,76,100,46,13,80
+Australia,AUS,2004,12,18,12,4,20
+Australia,AUS,2005,22,29,27,8,28
+Australia,AUS,2006,27,27,21,8,28
+Australia,AUS,2007,33,31,18,6,33
+Australia,AUS,2008,26,42,22,9,38
+Australia,AUS,2009,41,57,36,20,60
+Australia,AUS,2010,70,77,32,17,89
+Australia,AUS,2011,72,85,56,20,81
+Australia,AUS,2012,99,99,51,49,143
+Australia,AUS,2013,50,63,28,18,60
+Australia,AUS,2014,46,50,32,20,51
+Australia,AUS,2015,39,53,20,16,42
+Australia,AUS,2016,35,54,23,16,56
+Australia,AUS,2017,56,72,36,22,84
+Australia,AUS,2018,69,108,30,34,136
+Australia,AUS,2019,55,102,20,17,115
+Australia,AUS,2020,26,44,12,9,48
+Australia,AUS,2021,10,16,6,5,23
+Austria,AUT,2000,15,20,19,3,12
+Austria,AUT,2001,21,27,14,6,19
+Austria,AUT,2002,27,35,17,7,26
+Austria,AUT,2003,31,35,18,6,29
+Austria,AUT,2004,16,19,7,2,14
+Austria,AUT,2005,21,19,13,2,17
+Austria,AUT,2006,36,41,28,7,38
+Austria,AUT,2007,47,55,37,2,37
+Austria,AUT,2008,37,49,27,14,39
+Austria,AUT,2009,35,42,16,7,29
+Austria,AUT,2010,24,28,10,5,25
+Austria,AUT,2011,6,11,1,1,9
+Austria,AUT,2012,9,15,9,2,7
+Austria,AUT,2013,4,5,1,,4
+Austria,AUT,2014,5,7,1,4,10
+Austria,AUT,2015,6,6,4,2,5
+Austria,AUT,2016,9,7,2,1,9
+Austria,AUT,2017,7,11,2,1,15
+Austria,AUT,2018,5,11,,,11
+Austria,AUT,2019,4,9,6,,5
+Belgium,BEL,2009,1,1,2,,4
+Belgium,BEL,2011,2,2,1,1,5
+Belgium,BEL,2013,1,1,1,1,1
+Belgium,BEL,2014,1,1,2,,2
+Belgium,BEL,2017,2,2,,1,4
+Belgium,BEL,2018,3,5,1,1,8
+Belgium,BEL,2019,3,3,1,1,5
+Belgium,BEL,2000,,1,,,2
+Belgium,BEL,2008,,1,,,1
+Belgium,BEL,2016,,2,,,
+Belgium,BEL,2012,,,1,,
+Brazil,BRA,2000,5,5,4,1,2
+Brazil,BRA,2001,5,9,4,7,6
+Brazil,BRA,2002,7,10,3,2,5
+Brazil,BRA,2003,16,15,11,5,13
+Brazil,BRA,2004,8,10,8,2,11
+Brazil,BRA,2005,15,18,13,2,13
+Brazil,BRA,2006,26,29,18,6,24
+Brazil,BRA,2007,32,42,33,10,42
+Brazil,BRA,2008,46,51,24,11,47
+Brazil,BRA,2009,50,60,26,10,64
+Brazil,BRA,2010,100,133,55,30,132
+Brazil,BRA,2011,86,118,53,32,115
+Brazil,BRA,2012,72,101,46,34,110
+Brazil,BRA,2013,75,88,42,21,87
+Brazil,BRA,2014,57,68,30,29,83
+Brazil,BRA,2015,47,64,45,14,59
+Brazil,BRA,2016,51,82,35,18,75
+Brazil,BRA,2017,47,86,45,15,79
+Brazil,BRA,2018,46,77,33,24,78
+Brazil,BRA,2019,33,58,24,12,69
+Brazil,BRA,2020,4,9,4,,7
+Bulgaria,BGR,2001,1,,,,
+Bulgaria,BGR,2012,1,1,,,1
+Bulgaria,BGR,2013,2,,,,1
+Bulgaria,BGR,2014,2,,,,
+Bulgaria,BGR,2015,1,,,,
+Bulgaria,BGR,2016,1,,,,
+Bulgaria,BGR,2005,,,1,,
+Bulgaria,BGR,2011,,,,,2
+Bulgaria,BGR,2018,,,,,1
+Canada,CAN,2000,34,40,33,10,28
+Canada,CAN,2001,38,48,30,12,26
+Canada,CAN,2002,49,56,30,8,39
+Canada,CAN,2003,32,40,29,11,35
+Canada,CAN,2004,21,34,19,4,35
+Canada,CAN,2005,43,60,43,5,37
+Canada,CAN,2006,51,65,39,13,50
+Canada,CAN,2007,58,75,45,18,59
+Canada,CAN,2008,57,88,44,24,66
+Canada,CAN,2009,55,76,44,25,85
+Canada,CAN,2010,87,122,40,30,123
+Canada,CAN,2011,86,113,40,33,111
+Canada,CAN,2012,110,155,63,69,180
+Canada,CAN,2013,92,126,45,33,123
+Canada,CAN,2014,118,132,61,49,160
+Canada,CAN,2015,112,153,55,41,145
+Canada,CAN,2016,92,140,43,28,142
+Canada,CAN,2017,113,154,49,39,156
+Canada,CAN,2018,92,135,34,36,157
+Canada,CAN,2019,82,154,31,42,168
+Canada,CAN,2020,11,30,6,5,19
+Chile,CHL,2008,1,,1,,
+Chile,CHL,2010,2,2,,,5
+Chile,CHL,2011,4,3,4,2,6
+Chile,CHL,2012,14,15,9,4,21
+Chile,CHL,2013,5,8,5,2,5
+Chile,CHL,2014,4,2,1,2,4
+Chile,CHL,2015,1,2,1,1,1
+Chile,CHL,2016,5,7,,2,6
+Chile,CHL,2017,5,4,4,3,6
+Chile,CHL,2018,3,4,,3,9
+Chile,CHL,2019,3,6,3,4,6
+Chile,CHL,2020,3,7,1,3,8
+Chile,CHL,2007,,,1,,
+China,CHN,2000,38,58,48,12,55
+China,CHN,2001,46,70,40,18,47
+China,CHN,2002,49,87,47,9,51
+China,CHN,2003,106,145,98,30,117
+China,CHN,2004,86,177,100,30,148
+China,CHN,2005,182,221,159,23,181
+China,CHN,2006,345,509,288,69,336
+China,CHN,2007,486,632,333,86,443
+China,CHN,2008,675,822,421,159,614
+China,CHN,2009,649,912,414,128,705
+China,CHN,2010,953,1338,590,239,1138
+China,CHN,2011,1405,2146,991,468,1707
+China,CHN,2012,1535,2265,1093,513,1762
+China,CHN,2013,1428,2293,1012,447,1703
+China,CHN,2014,1461,2345,1143,506,1816
+China,CHN,2015,1479,3196,1238,611,2034
+China,CHN,2016,2230,5504,1711,1065,4308
+China,CHN,2017,3556,9170,2303,1595,8191
+China,CHN,2018,4849,10402,2295,1918,12313
+China,CHN,2019,6469,13577,2415,2152,16341
+China,CHN,2020,5223,12362,1923,1743,14913
+China,CHN,2021,341,866,141,109,1078
+Colombia,COL,2010,2,2,,,4
+Colombia,COL,2011,1,1,,,2
+Colombia,COL,2012,5,4,1,1,7
+Colombia,COL,2013,4,4,3,2,5
+Colombia,COL,2014,1,1,,,2
+Colombia,COL,2017,1,1,,,2
+Colombia,COL,2018,2,4,1,2,7
+Colombia,COL,2019,1,2,,4,4
+Colombia,COL,2020,1,3,1,1,5
+Colombia,COL,2021,1,2,,,3
+Costa Rica,CRI,2013,,1,,,
+Costa Rica,CRI,2014,,1,,,
+Costa Rica,CRI,2018,,1,,2,2
+Croatia,HRV,2001,1,1,,,1
+Croatia,HRV,2007,1,1,1,,1
+Croatia,HRV,2012,1,1,,1,2
+Croatia,HRV,2016,2,3,3,1,3
+Croatia,HRV,2017,2,4,,1,3
+Croatia,HRV,2018,4,7,3,3,6
+Croatia,HRV,2020,3,1,1,,1
+Croatia,HRV,2015,,1,,,
+Croatia,HRV,2019,,3,1,,2
+Croatia,HRV,2021,,1,,,
+Croatia,HRV,2008,,,,,1
+Croatia,HRV,2013,,,,,1
+Cuba,CUB,2012,1,1,,,2
+Cyprus,CYP,2012,1,1,,1,2
+Cyprus,CYP,2013,2,2,,,3
+Cyprus,CYP,2016,2,2,1,1,3
+Cyprus,CYP,2018,2,4,2,1,1
+Cyprus,CYP,2019,1,2,,1,2
+Cyprus,CYP,2015,,1,,,
+Czechia,CZE,2000,6,2,7,,2
+Czechia,CZE,2001,3,2,2,3,1
+Czechia,CZE,2010,1,4,,,5
+Czechia,CZE,2011,1,3,,,2
+Czechia,CZE,2013,1,5,,,2
+Czechia,CZE,2014,2,4,3,,2
+Czechia,CZE,2018,2,7,1,,8
+Czechia,CZE,2019,7,11,,,17
+Czechia,CZE,2020,1,3,,1,3
+Czechia,CZE,2002,,3,,1,1
+Czechia,CZE,2007,,1,,,
+Czechia,CZE,2008,,5,2,,
+Czechia,CZE,2009,,3,1,,2
+Czechia,CZE,2015,,1,,,3
+Czechia,CZE,2017,,2,,,3
+Czechia,CZE,2021,,1,,,1
+Czechia,CZE,2004,,,,,1
+Czechia,CZE,2005,,,,,1
+Czechia,CZE,2012,,,,,2
+Czechia,CZE,2016,,,,,2
+Denmark,DNK,2000,4,4,6,1,2
+Denmark,DNK,2001,1,3,2,,
+Denmark,DNK,2003,7,9,2,2,11
+Denmark,DNK,2004,4,4,,3,6
+Denmark,DNK,2005,1,2,,,3
+Denmark,DNK,2006,4,5,2,2,4
+Denmark,DNK,2007,2,3,1,,1
+Denmark,DNK,2008,4,7,3,1,3
+Denmark,DNK,2009,11,19,8,9,26
+Denmark,DNK,2010,26,29,11,11,54
+Denmark,DNK,2011,23,32,7,12,47
+Denmark,DNK,2012,17,21,9,8,22
+Denmark,DNK,2013,22,30,12,11,31
+Denmark,DNK,2014,14,19,10,6,29
+Denmark,DNK,2015,10,12,6,5,12
+Denmark,DNK,2016,9,15,2,2,19
+Denmark,DNK,2017,8,11,6,3,13
+Denmark,DNK,2018,6,7,2,3,10
+Denmark,DNK,2021,1,2,1,,4
+Denmark,DNK,2002,,2,,,
+Denmark,DNK,2019,,2,,,
+Denmark,DNK,2020,,1,,,2
+Dominican Republic,DOM,2012,1,1,,,2
+Dominican Republic,DOM,2019,,1,,2,2
+Dominican Republic,DOM,2017,,,,,1
+Ecuador,ECU,2014,1,1,,,2
+Ecuador,ECU,2019,,1,,3,2
+Ecuador,ECU,2018,,,,,1
+Egypt,EGY,2007,2,3,1,,1
+Egypt,EGY,2011,1,1,,,2
+Egypt,EGY,2012,1,1,,,2
+Egypt,EGY,2008,,,,1,
+Egypt,EGY,2001,,,,,1
+El Salvador,SLV,2017,,,,,1
+Estonia,EST,2000,1,,,,
+Estonia,EST,2002,,1,,,
+Europe,,2000,234,280,214,37,206
+Europe,,2001,245,325,188,59,188
+Europe,,2002,308,358,197,42,255
+Europe,,2003,317,382,220,60,289
+Europe,,2004,235,319,169,43,253
+Europe,,2005,309,361,233,40,269
+Europe,,2006,396,476,322,56,386
+Europe,,2007,490,571,372,64,410
+Europe,,2008,574,677,359,146,524
+Europe,,2009,637,900,361,176,828
+Europe,,2010,994,1312,573,285,1312
+Europe,,2011,1038,1558,659,334,1438
+Europe,,2012,1189,1680,743,392,1466
+Europe,,2013,1113,1632,706,373,1363
+Europe,,2014,1018,1529,670,341,1258
+Europe,,2015,962,1563,555,302,1283
+Europe,,2016,975,1518,561,300,1340
+Europe,,2017,1308,2010,640,378,1888
+Europe,,2018,1386,2339,657,409,2179
+Europe,,2019,1293,2455,563,367,2185
+Europe,,2020,308,656,161,102,548
+Europe,,2021,15,40,3,2,35
+European Union (27),,2000,211,263,191,31,189
+European Union (27),,2001,221,297,165,52,172
+European Union (27),,2002,282,329,183,36,234
+European Union (27),,2003,288,349,199,53,265
+European Union (27),,2004,208,283,143,38,213
+European Union (27),,2005,274,318,197,31,238
+European Union (27),,2006,345,428,271,45,348
+European Union (27),,2007,431,505,301,52,353
+European Union (27),,2008,485,583,290,121,437
+European Union (27),,2009,562,803,296,154,728
+European Union (27),,2010,878,1168,469,251,1169
+European Union (27),,2011,914,1406,555,291,1283
+European Union (27),,2012,1052,1494,662,352,1269
+European Union (27),,2013,966,1460,610,325,1183
+European Union (27),,2014,870,1339,552,276,1065
+European Union (27),,2015,784,1329,450,232,1072
+European Union (27),,2016,830,1316,456,244,1164
+European Union (27),,2017,1159,1811,540,310,1690
+European Union (27),,2018,1246,2123,586,346,1927
+European Union (27),,2019,1210,2302,503,333,2025
+European Union (27),,2020,285,593,148,96,485
+European Union (27),,2021,15,39,3,2,35
+Finland,FIN,2002,1,1,1,,1
+Finland,FIN,2006,1,2,1,1,3
+Finland,FIN,2007,2,2,1,,1
+Finland,FIN,2009,1,3,1,,2
+Finland,FIN,2010,4,9,4,,10
+Finland,FIN,2011,1,2,1,,1
+Finland,FIN,2013,2,1,2,,1
+Finland,FIN,2014,1,2,,,3
+Finland,FIN,2015,3,10,1,,11
+Finland,FIN,2016,7,7,,,8
+Finland,FIN,2017,5,7,,1,7
+Finland,FIN,2018,2,10,,4,16
+Finland,FIN,2019,4,14,1,6,22
+Finland,FIN,2020,1,3,,,6
+Finland,FIN,2000,,2,,,1
+Finland,FIN,2003,,1,1,1,
+Finland,FIN,2005,,3,,,1
+Finland,FIN,2008,,3,1,,
+Finland,FIN,2021,,1,,,
+Finland,FIN,2004,,,1,1,
+Finland,FIN,2012,,,2,,
+France,FRA,2000,26,29,17,5,25
+France,FRA,2001,20,26,13,2,16
+France,FRA,2002,29,36,15,1,23
+France,FRA,2003,19,25,9,2,16
+France,FRA,2004,18,40,12,5,28
+France,FRA,2005,27,40,21,4,28
+France,FRA,2006,30,44,30,4,29
+France,FRA,2007,37,54,22,1,25
+France,FRA,2008,48,70,22,9,52
+France,FRA,2009,72,118,26,16,101
+France,FRA,2010,82,156,43,25,149
+France,FRA,2011,144,207,72,46,201
+France,FRA,2012,151,195,91,35,170
+France,FRA,2013,121,173,79,25,153
+France,FRA,2014,86,123,63,20,98
+France,FRA,2015,71,106,32,21,96
+France,FRA,2016,66,99,34,20,102
+France,FRA,2017,90,142,42,13,115
+France,FRA,2018,88,171,49,19,106
+France,FRA,2019,112,226,42,20,176
+France,FRA,2020,11,17,7,1,13
+Georgia,GEO,2010,1,1,,,2
+Germany,DEU,2000,128,178,111,18,123
+Germany,DEU,2001,142,194,108,28,112
+Germany,DEU,2002,193,209,130,24,154
+Germany,DEU,2003,175,214,131,33,153
+Germany,DEU,2004,135,179,106,14,120
+Germany,DEU,2005,194,223,143,25,159
+Germany,DEU,2006,224,286,182,22,227
+Germany,DEU,2007,292,331,203,42,238
+Germany,DEU,2008,341,366,195,76,266
+Germany,DEU,2009,378,507,209,96,464
+Germany,DEU,2010,613,771,327,162,699
+Germany,DEU,2011,631,957,408,178,828
+Germany,DEU,2012,721,1070,472,243,871
+Germany,DEU,2013,702,1062,457,234,818
+Germany,DEU,2014,673,1020,411,194,760
+Germany,DEU,2015,614,1021,357,176,813
+Germany,DEU,2016,673,1044,379,199,903
+Germany,DEU,2017,983,1499,445,261,1411
+Germany,DEU,2018,1053,1733,485,287,1604
+Germany,DEU,2019,1038,1940,443,291,1701
+Germany,DEU,2020,255,542,139,89,429
+Germany,DEU,2021,11,28,2,2,24
+Greece,GRC,2000,1,2,1,,
+Greece,GRC,2007,1,,,,1
+Greece,GRC,2008,,1,,,1
+Greece,GRC,2009,,1,,,3
+Greece,GRC,2006,,,,,1
+Greece,GRC,2010,,,,,2
+Greece,GRC,2011,,,,,3
+Greece,GRC,2013,,,,,1
+Guatemala,GTM,2012,1,1,,,2
+Guatemala,GTM,2017,,,,,1
+High-income countries,,2000,850,1114,775,162,864
+High-income countries,,2001,907,1278,792,208,841
+High-income countries,,2002,1053,1434,917,212,1042
+High-income countries,,2003,1162,1558,1061,232,1318
+High-income countries,,2004,986,1405,875,173,1171
+High-income countries,,2005,1247,1797,1098,227,1172
+High-income countries,,2006,1749,2567,1462,293,1622
+High-income countries,,2007,2205,2830,1740,425,1902
+High-income countries,,2008,2558,3295,1742,659,2216
+High-income countries,,2009,2801,4154,1856,783,3176
+High-income countries,,2010,3713,5925,2454,1272,4603
+High-income countries,,2011,4765,7971,3409,1826,6026
+High-income countries,,2012,5047,8119,3532,2083,6371
+High-income countries,,2013,4436,7591,3129,1664,5386
+High-income countries,,2014,4362,7568,3009,1644,5289
+High-income countries,,2015,4007,7175,2709,1408,5033
+High-income countries,,2016,4252,7490,2721,1496,6126
+High-income countries,,2017,4960,8211,2845,1621,6947
+High-income countries,,2018,5712,8879,2999,1904,8357
+High-income countries,,2019,4792,8576,2512,1920,8208
+High-income countries,,2020,1366,2834,774,647,2526
+High-income countries,,2021,131,246,41,64,268
+Hong Kong,HKG,2001,2,1,3,2,2
+Hong Kong,HKG,2002,6,8,3,2,6
+Hong Kong,HKG,2003,8,6,3,2,8
+Hong Kong,HKG,2004,3,2,1,,
+Hong Kong,HKG,2005,5,7,2,3,7
+Hong Kong,HKG,2006,4,8,3,2,7
+Hong Kong,HKG,2007,1,1,,,
+Hong Kong,HKG,2008,9,12,6,2,6
+Hong Kong,HKG,2009,14,9,4,1,10
+Hong Kong,HKG,2010,3,5,4,4,4
+Hong Kong,HKG,2011,6,27,11,,10
+Hong Kong,HKG,2012,6,9,1,3,12
+Hong Kong,HKG,2013,12,15,8,6,14
+Hong Kong,HKG,2014,10,15,7,3,9
+Hong Kong,HKG,2015,47,52,24,12,77
+Hong Kong,HKG,2016,27,34,10,5,39
+Hong Kong,HKG,2017,1,3,3,1,2
+Hong Kong,HKG,2018,21,39,11,12,41
+Hong Kong,HKG,2019,2,4,3,3,6
+Hong Kong,HKG,2000,,2,,,2
+Hungary,HUN,2000,1,,,,1
+Hungary,HUN,2001,2,2,2,4,1
+Hungary,HUN,2004,3,1,2,1,2
+Hungary,HUN,2005,1,1,3,,2
+Hungary,HUN,2010,5,12,3,1,7
+Hungary,HUN,2011,4,9,,4,11
+Hungary,HUN,2012,8,8,3,1,4
+Hungary,HUN,2013,3,12,4,5,5
+Hungary,HUN,2014,5,14,8,4,9
+Hungary,HUN,2015,3,20,6,2,4
+Hungary,HUN,2016,2,14,2,,4
+Hungary,HUN,2017,5,11,6,3,8
+Hungary,HUN,2018,2,3,1,,1
+Hungary,HUN,2002,,2,,,2
+Hungary,HUN,2008,,3,2,,1
+Hungary,HUN,2009,,1,,,1
+Hungary,HUN,2020,,2,,,
+India,IND,2008,1,,,,
+India,IND,2011,1,2,,,2
+India,IND,2012,22,32,10,10,35
+India,IND,2013,6,10,1,3,11
+India,IND,2014,66,87,45,15,77
+India,IND,2015,11,20,6,2,11
+Indonesia,IDN,2000,3,2,2,1,4
+Ireland,IRL,2000,1,1,,,
+Ireland,IRL,2012,1,1,,,1
+Ireland,IRL,2020,,1,,,
+Israel,ISR,2000,2,3,1,1,3
+Israel,ISR,2002,1,3,1,1,2
+Israel,ISR,2003,1,1,2,1,1
+Israel,ISR,2006,1,1,1,,1
+Israel,ISR,2007,1,1,2,,1
+Israel,ISR,2008,12,12,6,6,15
+Israel,ISR,2009,6,6,3,5,13
+Israel,ISR,2010,10,11,6,5,16
+Israel,ISR,2011,17,23,7,6,33
+Israel,ISR,2012,28,31,4,10,52
+Israel,ISR,2013,6,11,1,2,9
+Israel,ISR,2014,15,12,7,9,18
+Israel,ISR,2015,8,8,4,7,11
+Israel,ISR,2016,4,9,2,,7
+Israel,ISR,2017,4,10,1,2,10
+Israel,ISR,2018,10,20,2,5,23
+Israel,ISR,2019,6,12,3,6,11
+Israel,ISR,2020,8,14,5,4,11
+Israel,ISR,2021,2,3,1,,5
+Israel,ISR,2001,,2,2,,1
+Italy,ITA,2000,4,5,4,1,5
+Italy,ITA,2001,6,6,3,2,5
+Italy,ITA,2002,4,6,1,,4
+Italy,ITA,2003,5,7,4,1,2
+Italy,ITA,2004,2,3,1,1,1
+Italy,ITA,2005,3,5,2,,1
+Italy,ITA,2006,5,7,2,1,5
+Italy,ITA,2007,6,10,5,,8
+Italy,ITA,2008,3,7,1,1,5
+Italy,ITA,2009,8,16,4,6,12
+Italy,ITA,2010,6,17,4,1,18
+Italy,ITA,2011,14,25,10,6,22
+Italy,ITA,2012,11,18,9,4,21
+Italy,ITA,2013,16,28,10,7,30
+Italy,ITA,2015,11,16,9,4,17
+Italy,ITA,2016,8,16,9,6,15
+Italy,ITA,2017,10,19,13,8,24
+Italy,ITA,2018,32,67,15,11,67
+Italy,ITA,2019,11,26,3,3,20
+Japan,JPN,2000,244,338,287,45,284
+Japan,JPN,2001,302,441,332,60,340
+Japan,JPN,2002,316,425,377,62,399
+Japan,JPN,2003,360,473,462,60,510
+Japan,JPN,2004,382,444,417,57,486
+Japan,JPN,2005,448,582,457,78,411
+Japan,JPN,2006,672,858,597,103,542
+Japan,JPN,2007,815,863,724,154,523
+Japan,JPN,2008,855,1032,695,187,603
+Japan,JPN,2009,937,1253,797,240,797
+Japan,JPN,2010,1136,1753,913,424,1158
+Japan,JPN,2011,1475,2404,1330,618,1569
+Japan,JPN,2012,1343,2261,1214,617,1464
+Japan,JPN,2013,1137,2096,1055,433,1222
+Japan,JPN,2014,1036,1888,970,381,1067
+Japan,JPN,2015,939,1658,839,287,1016
+Japan,JPN,2016,925,1693,850,292,1158
+Japan,JPN,2017,1103,1653,792,327,1317
+Japan,JPN,2018,1680,1878,953,394,1930
+Japan,JPN,2019,1007,1625,710,404,1571
+Japan,JPN,2020,97,172,51,27,134
+Japan,JPN,2021,8,22,3,4,8
+Jordan,JOR,2019,,1,,3,2
+Latvia,LVA,2012,1,1,1,,
+Latvia,LVA,2002,,,1,,
+Latvia,LVA,2007,,,2,,
+Lithuania,LTU,2010,3,2,3,,3
+Lithuania,LTU,2013,1,2,1,2,2
+Lithuania,LTU,2014,1,2,,1,2
+Lithuania,LTU,2015,2,2,1,1,3
+Lithuania,LTU,2016,1,1,,,2
+Lithuania,LTU,2019,2,2,,,3
+Lithuania,LTU,2009,,3,,,
+Lithuania,LTU,2012,,1,,,
+Lithuania,LTU,2017,,1,1,,
+Lithuania,LTU,2018,,1,,,
+Lower-middle-income countries,,2000,3,2,2,1,5
+Lower-middle-income countries,,2005,1,1,,,
+Lower-middle-income countries,,2007,3,4,8,,4
+Lower-middle-income countries,,2008,1,,1,1,
+Lower-middle-income countries,,2009,1,2,,,2
+Lower-middle-income countries,,2011,2,3,1,,7
+Lower-middle-income countries,,2012,27,37,11,11,44
+Lower-middle-income countries,,2013,6,13,2,3,18
+Lower-middle-income countries,,2014,68,91,48,17,82
+Lower-middle-income countries,,2015,19,26,12,3,23
+Lower-middle-income countries,,2016,4,9,3,4,14
+Lower-middle-income countries,,2017,5,5,5,,12
+Lower-middle-income countries,,2018,15,25,8,15,44
+Lower-middle-income countries,,2019,18,42,6,31,69
+Lower-middle-income countries,,2020,3,12,3,4,11
+Lower-middle-income countries,,2001,,2,,,1
+Lower-middle-income countries,,2003,,1,2,,
+Lower-middle-income countries,,2004,,,1,,
+Lower-middle-income countries,,2006,,,2,1,
+Lower-middle-income countries,,2002,,,,,1
+Lower-middle-income countries,,2010,,,,,1
+Luxembourg,LUX,2005,1,1,1,,
+Luxembourg,LUX,2015,1,1,,,2
+Luxembourg,LUX,2016,2,2,,,3
+Luxembourg,LUX,2017,1,1,1,,3
+Luxembourg,LUX,2018,1,1,,,
+Luxembourg,LUX,2019,1,2,,,2
+Luxembourg,LUX,2014,,1,,,
+Luxembourg,LUX,2020,,1,,,
+Malaysia,MYS,2000,2,5,1,,1
+Malaysia,MYS,2004,1,,,,
+Malaysia,MYS,2005,3,2,1,1,4
+Malaysia,MYS,2006,3,2,2,,2
+Malaysia,MYS,2008,5,9,4,4,10
+Malaysia,MYS,2009,2,8,1,1,4
+Malaysia,MYS,2010,9,9,6,,6
+Malaysia,MYS,2011,10,13,8,5,15
+Malaysia,MYS,2012,12,17,6,9,21
+Malaysia,MYS,2013,9,10,3,1,11
+Malaysia,MYS,2014,18,18,9,15,35
+Malaysia,MYS,2015,4,4,7,3,5
+Malaysia,MYS,2001,,2,2,,
+Malaysia,MYS,2007,,2,,,
+Mexico,MEX,2000,3,6,4,1,
+Mexico,MEX,2001,6,9,3,2,5
+Mexico,MEX,2002,7,12,4,3,9
+Mexico,MEX,2003,14,10,9,5,13
+Mexico,MEX,2004,5,5,6,,6
+Mexico,MEX,2005,4,7,7,1,5
+Mexico,MEX,2006,10,10,3,2,10
+Mexico,MEX,2007,13,12,12,8,16
+Mexico,MEX,2008,4,5,5,3,2
+Mexico,MEX,2009,12,19,12,2,14
+Mexico,MEX,2010,36,38,15,10,45
+Mexico,MEX,2011,36,39,28,10,41
+Mexico,MEX,2012,27,46,10,14,46
+Mexico,MEX,2013,25,35,11,10,35
+Mexico,MEX,2014,39,45,26,24,61
+Mexico,MEX,2015,55,62,40,27,60
+Mexico,MEX,2016,34,63,26,16,56
+Mexico,MEX,2017,62,79,30,26,86
+Mexico,MEX,2018,8,21,6,9,20
+Mexico,MEX,2019,1,4,,1,2
+Moldova,MDA,2007,,1,1,,
+Moldova,MDA,2005,,,1,,1
+Moldova,MDA,2015,,,1,,
+Morocco,MAR,2007,1,1,2,,1
+Morocco,MAR,2012,3,2,1,1,4
+Morocco,MAR,2018,1,3,1,5,4
+Morocco,MAR,2003,,1,,,
+Morocco,MAR,2009,,1,,,
+Morocco,MAR,2013,,1,,,
+Morocco,MAR,2016,,2,,,1
+Morocco,MAR,2019,,1,,1,3
+Morocco,MAR,2011,,,1,,2
+Morocco,MAR,2000,,,,,1
+Morocco,MAR,2014,,,,,1
+Morocco,MAR,2017,,,,,1
+Netherlands,NLD,2000,3,1,,1,1
+Netherlands,NLD,2001,1,2,,,2
+Netherlands,NLD,2002,2,4,3,,3
+Netherlands,NLD,2003,3,2,2,,3
+Netherlands,NLD,2004,2,2,2,1,1
+Netherlands,NLD,2005,1,2,2,,2
+Netherlands,NLD,2007,1,2,,,2
+Netherlands,NLD,2008,1,1,1,,
+Netherlands,NLD,2009,3,3,1,1,6
+Netherlands,NLD,2010,7,8,4,6,14
+Netherlands,NLD,2011,8,8,5,4,12
+Netherlands,NLD,2012,3,2,1,1,3
+Netherlands,NLD,2013,3,3,2,1,2
+Netherlands,NLD,2015,2,3,1,,6
+Netherlands,NLD,2016,2,2,1,,3
+Netherlands,NLD,2017,9,10,1,1,13
+Netherlands,NLD,2018,6,9,2,1,11
+Netherlands,NLD,2019,5,10,1,3,17
+Netherlands,NLD,2020,1,1,,,1
+Netherlands,NLD,2014,,1,,1,2
+New Zealand,NZL,2002,4,2,2,2,4
+New Zealand,NZL,2003,3,1,2,,2
+New Zealand,NZL,2004,2,2,1,1,4
+New Zealand,NZL,2006,7,4,6,2,4
+New Zealand,NZL,2007,2,2,1,1,3
+New Zealand,NZL,2008,1,2,1,,
+New Zealand,NZL,2009,3,4,4,,6
+New Zealand,NZL,2010,8,7,4,1,9
+New Zealand,NZL,2011,7,7,3,4,12
+New Zealand,NZL,2012,5,6,3,4,10
+New Zealand,NZL,2013,3,2,2,1,4
+New Zealand,NZL,2015,1,2,,,2
+New Zealand,NZL,2016,1,2,1,,2
+New Zealand,NZL,2017,2,1,3,2,1
+New Zealand,NZL,2001,,2,3,,1
+New Zealand,NZL,2005,,,1,,2
+New Zealand,NZL,2014,,,1,,
+Nicaragua,NIC,2012,1,1,,,2
+Nicaragua,NIC,2007,,,1,,1
+North America,,2000,301,364,214,62,272
+North America,,2001,286,364,193,60,216
+North America,,2002,352,457,264,82,300
+North America,,2003,338,469,265,80,344
+North America,,2004,301,459,217,52,330
+North America,,2005,412,645,327,83,389
+North America,,2006,545,829,406,105,536
+North America,,2007,735,1036,546,172,789
+North America,,2008,922,1132,536,255,841
+North America,,2009,967,1327,523,279,1137
+North America,,2010,1214,1875,726,427,1572
+North America,,2011,1748,2634,1097,677,2308
+North America,,2012,1887,2760,1177,786,2505
+North America,,2013,1706,2710,1065,693,2213
+North America,,2014,1818,2881,1056,726,2390
+North America,,2015,1703,2829,994,670,2191
+North America,,2016,1774,2957,958,705,2557
+North America,,2017,1952,3209,1082,711,2736
+North America,,2018,1853,3099,949,734,2704
+North America,,2019,1800,3119,906,779,2951
+North America,,2020,812,1683,506,435,1490
+North America,,2021,79,127,24,47,142
+Norway,NOR,2000,3,1,3,,2
+Norway,NOR,2001,2,1,3,,
+Norway,NOR,2002,1,2,1,,
+Norway,NOR,2004,6,2,4,,3
+Norway,NOR,2005,3,1,1,,2
+Norway,NOR,2006,5,2,2,1,3
+Norway,NOR,2007,1,2,1,,2
+Norway,NOR,2008,2,2,2,2,2
+Norway,NOR,2009,1,1,,,1
+Norway,NOR,2010,1,3,1,1,3
+Norway,NOR,2011,6,6,2,2,9
+Norway,NOR,2012,1,3,,1,2
+Norway,NOR,2013,3,3,1,1,4
+Norway,NOR,2014,9,13,5,8,14
+Norway,NOR,2015,7,7,1,3,11
+Norway,NOR,2016,4,6,,1,8
+Norway,NOR,2017,1,2,,1,6
+Norway,NOR,2018,6,8,1,,11
+Norway,NOR,2019,8,14,1,1,24
+Norway,NOR,2020,3,4,,,7
+Norway,NOR,2003,,4,,,
+Oceania,,2000,31,33,27,11,33
+Oceania,,2001,37,64,30,14,50
+Oceania,,2002,34,48,20,13,33
+Oceania,,2003,79,101,48,13,82
+Oceania,,2004,14,20,13,5,24
+Oceania,,2005,22,29,28,8,30
+Oceania,,2006,34,31,27,10,32
+Oceania,,2007,35,33,19,7,36
+Oceania,,2008,27,44,23,9,38
+Oceania,,2009,44,61,40,20,66
+Oceania,,2010,78,84,36,18,98
+Oceania,,2011,79,92,59,24,93
+Oceania,,2012,104,105,54,53,153
+Oceania,,2013,53,65,30,19,64
+Oceania,,2014,46,50,33,20,51
+Oceania,,2015,40,55,20,16,44
+Oceania,,2016,36,56,24,16,58
+Oceania,,2017,58,73,39,24,85
+Oceania,,2018,69,108,30,34,136
+Oceania,,2019,55,102,20,17,115
+Oceania,,2020,26,44,12,9,48
+Oceania,,2021,10,16,6,5,23
+Peru,PER,2000,2,1,2,,2
+Peru,PER,2009,2,2,,,4
+Peru,PER,2010,2,4,1,,6
+Peru,PER,2016,2,2,2,3,5
+Peru,PER,2017,1,1,,,
+Peru,PER,2019,2,4,1,1,6
+Peru,PER,2001,,1,,,
+Peru,PER,2004,,1,,,
+Peru,PER,2012,,1,,,
+Peru,PER,2018,,4,1,4,2
+Peru,PER,2020,,,,,1
+Philippines,PHL,2014,2,3,2,2,4
+Philippines,PHL,2015,7,5,6,1,8
+Philippines,PHL,2016,4,7,3,4,10
+Philippines,PHL,2017,5,5,5,,9
+Philippines,PHL,2018,14,22,7,10,38
+Philippines,PHL,2019,18,40,6,30,66
+Philippines,PHL,2020,3,12,3,4,11
+Philippines,PHL,2013,,,,,2
+Poland,POL,2000,6,2,6,,1
+Poland,POL,2001,3,2,2,2,1
+Poland,POL,2002,4,5,2,,5
+Poland,POL,2003,9,10,5,2,11
+Poland,POL,2004,5,8,,2,8
+Poland,POL,2005,2,2,1,,3
+Poland,POL,2006,7,6,4,1,6
+Poland,POL,2007,2,8,,,2
+Poland,POL,2008,5,12,6,2,7
+Poland,POL,2009,4,12,3,2,10
+Poland,POL,2010,18,29,15,8,32
+Poland,POL,2011,16,39,12,11,31
+Poland,POL,2012,19,32,12,9,25
+Poland,POL,2013,7,31,6,5,15
+Poland,POL,2014,11,39,11,12,20
+Poland,POL,2015,15,54,9,4,22
+Poland,POL,2016,10,35,3,2,12
+Poland,POL,2017,7,24,5,5,12
+Poland,POL,2018,5,18,9,3,5
+Poland,POL,2019,2,8,,2,9
+Portugal,PRT,2001,3,3,1,1,1
+Portugal,PRT,2003,3,5,1,1,5
+Portugal,PRT,2004,2,2,,2,4
+Portugal,PRT,2005,2,1,,,1
+Portugal,PRT,2006,3,4,1,,4
+Portugal,PRT,2007,2,4,2,,2
+Portugal,PRT,2008,2,4,1,,4
+Portugal,PRT,2009,1,5,,3,4
+Portugal,PRT,2010,8,12,7,4,16
+Portugal,PRT,2011,4,9,4,4,9
+Portugal,PRT,2012,7,8,4,6,9
+Portugal,PRT,2013,5,9,2,5,7
+Portugal,PRT,2014,5,6,5,1,8
+Portugal,PRT,2015,3,3,2,2,4
+Portugal,PRT,2016,1,6,,,5
+Portugal,PRT,2017,7,11,3,2,12
+Portugal,PRT,2018,4,4,,1,6
+Portugal,PRT,2019,1,3,1,1,6
+Portugal,PRT,2000,,1,3,,1
+Romania,ROU,2002,1,,3,,
+Romania,ROU,2003,2,,4,,
+Romania,ROU,2004,3,,3,,
+Romania,ROU,2007,1,3,1,,
+Romania,ROU,2008,3,1,4,4,
+Romania,ROU,2010,1,,,,1
+Romania,ROU,2011,1,,4,,3
+Romania,ROU,2013,1,2,1,,2
+Romania,ROU,2015,4,3,2,,1
+Romania,ROU,2016,1,,2,,
+Romania,ROU,2018,1,1,,,2
+Romania,ROU,2019,3,3,1,,2
+Romania,ROU,2001,,1,3,,
+Romania,ROU,2009,,2,2,1,2
+Romania,ROU,2000,,,1,,
+Romania,ROU,2005,,,1,,
+Romania,ROU,2014,,,,1,1
+Romania,ROU,2017,,,,,1
+Russia,RUS,2000,11,5,15,2,3
+Russia,RUS,2001,6,8,7,3,3
+Russia,RUS,2002,10,5,5,2,7
+Russia,RUS,2003,16,9,14,3,7
+Russia,RUS,2004,6,9,12,2,7
+Russia,RUS,2005,14,16,18,3,10
+Russia,RUS,2006,29,26,26,7,21
+Russia,RUS,2007,37,38,47,7,32
+Russia,RUS,2008,49,50,35,14,51
+Russia,RUS,2009,32,45,37,9,38
+Russia,RUS,2010,63,89,63,19,89
+Russia,RUS,2011,75,96,78,30,96
+Russia,RUS,2012,56,82,45,20,80
+Russia,RUS,2013,69,77,46,18,71
+Russia,RUS,2014,70,94,75,37,97
+Russia,RUS,2015,92,101,69,40,99
+Russia,RUS,2016,67,93,71,30,74
+Russia,RUS,2017,72,93,63,26,85
+Russia,RUS,2018,56,84,47,28,88
+Russia,RUS,2019,39,51,45,11,47
+Russia,RUS,2020,8,17,11,1,16
+Russia,RUS,2021,,1,,,
+San Marino,SMR,2015,1,,,,
+San Marino,SMR,2016,1,1,1,,1
+Saudi Arabia,SAU,2012,,1,,,1
+Serbia,SRB,2010,1,1,1,,1
+Serbia,SRB,2013,1,3,,2,2
+Serbia,SRB,2015,2,3,1,1,2
+Serbia,SRB,2012,,2,,,2
+Serbia,SRB,2017,,2,,,
+Serbia,SRB,2019,,1,,,1
+Serbia,SRB,2008,,,1,,1
+Serbia,SRB,2011,,,,,1
+Serbia,SRB,2014,,,,,1
+Singapore,SGP,2000,4,3,1,3,6
+Singapore,SGP,2004,2,2,1,,2
+Singapore,SGP,2006,1,2,,,2
+Singapore,SGP,2007,1,2,1,,2
+Singapore,SGP,2009,5,7,3,3,8
+Singapore,SGP,2010,15,20,6,1,18
+Singapore,SGP,2011,13,16,9,4,20
+Singapore,SGP,2012,17,28,13,15,48
+Singapore,SGP,2013,22,27,12,8,30
+Singapore,SGP,2014,23,29,14,12,37
+Singapore,SGP,2015,31,45,4,11,45
+Singapore,SGP,2016,15,31,11,9,38
+Singapore,SGP,2017,18,28,7,7,32
+Singapore,SGP,2018,7,19,8,6,21
+Singapore,SGP,2019,18,26,8,9,39
+Singapore,SGP,2020,1,2,,,2
+Singapore,SGP,2001,,1,,,
+Slovakia,SVK,2000,1,,1,,
+Slovakia,SVK,2001,1,1,1,,
+Slovakia,SVK,2018,3,6,,,3
+Slovakia,SVK,2019,2,2,,,3
+Slovakia,SVK,2020,4,4,,,6
+Slovakia,SVK,2007,,1,,,1
+Slovakia,SVK,2017,,1,,,
+Slovakia,SVK,2013,,,2,,
+Slovakia,SVK,2015,,,1,,
+Slovakia,SVK,2008,,,,,1
+Slovakia,SVK,2016,,,,,1
+Slovenia,SVN,2000,1,,,,
+Slovenia,SVN,2003,1,2,1,,1
+Slovenia,SVN,2004,1,1,,1,2
+Slovenia,SVN,2005,2,1,1,,1
+Slovenia,SVN,2006,2,3,,,4
+Slovenia,SVN,2007,1,1,,,1
+Slovenia,SVN,2009,1,3,,2,4
+Slovenia,SVN,2010,5,5,4,2,9
+Slovenia,SVN,2011,1,2,1,1,2
+Slovenia,SVN,2012,5,8,2,4,8
+Slovenia,SVN,2013,4,3,2,3,4
+Slovenia,SVN,2014,3,4,,2,5
+Slovenia,SVN,2015,3,4,1,1,4
+Slovenia,SVN,2008,,,,,1
+South Africa,ZAF,2001,3,,3,1,1
+South Africa,ZAF,2003,1,1,1,,
+South Africa,ZAF,2004,3,4,2,1,4
+South Africa,ZAF,2005,2,,,2,1
+South Africa,ZAF,2006,2,5,4,5,5
+South Africa,ZAF,2007,6,7,5,3,4
+South Africa,ZAF,2008,4,2,2,1,1
+South Africa,ZAF,2009,1,4,3,,4
+South Africa,ZAF,2010,4,8,3,1,5
+South Africa,ZAF,2011,17,17,11,5,27
+South Africa,ZAF,2012,16,21,8,4,20
+South Africa,ZAF,2013,12,12,8,5,7
+South Africa,ZAF,2014,13,14,4,5,18
+South Africa,ZAF,2015,7,7,4,4,5
+South Africa,ZAF,2016,4,2,,2,3
+South Africa,ZAF,2017,5,5,2,3,4
+South Africa,ZAF,2018,4,6,3,2,8
+South Africa,ZAF,2019,4,8,3,4,7
+South Africa,ZAF,2002,,1,2,,1
+South Africa,ZAF,2000,,,2,1,
+South America,,2000,7,7,6,1,5
+South America,,2001,5,12,4,10,7
+South America,,2002,7,11,3,2,6
+South America,,2003,18,18,11,6,17
+South America,,2004,8,11,8,2,11
+South America,,2005,15,18,14,2,13
+South America,,2006,27,30,18,7,27
+South America,,2007,32,43,34,10,43
+South America,,2008,47,52,25,11,47
+South America,,2009,58,72,27,10,74
+South America,,2010,120,158,61,41,179
+South America,,2011,92,125,57,34,124
+South America,,2012,92,125,56,39,142
+South America,,2013,87,105,52,27,103
+South America,,2014,63,72,31,31,92
+South America,,2015,50,68,47,16,62
+South America,,2016,59,92,37,23,87
+South America,,2017,56,101,51,21,90
+South America,,2018,53,91,35,35,101
+South America,,2019,39,73,30,26,87
+South America,,2020,8,19,6,4,21
+South America,,2021,1,2,,,3
+South Korea,KOR,2000,35,71,37,1,48
+South Korea,KOR,2001,35,77,46,15,42
+South Korea,KOR,2002,37,126,49,14,49
+South Korea,KOR,2003,70,117,68,18,87
+South Korea,KOR,2004,43,130,63,12,74
+South Korea,KOR,2005,61,159,72,16,64
+South Korea,KOR,2006,120,349,123,23,127
+South Korea,KOR,2007,161,333,127,35,165
+South Korea,KOR,2008,192,398,147,65,210
+South Korea,KOR,2009,210,589,159,69,336
+South Korea,KOR,2010,303,896,231,115,465
+South Korea,KOR,2011,398,1159,298,164,569
+South Korea,KOR,2012,432,1159,306,189,644
+South Korea,KOR,2013,430,1009,265,139,511
+South Korea,KOR,2014,450,1151,306,184,535
+South Korea,KOR,2015,373,1026,347,150,450
+South Korea,KOR,2016,554,1232,371,193,979
+South Korea,KOR,2017,589,1268,327,201,971
+South Korea,KOR,2018,656,1253,392,291,1176
+South Korea,KOR,2019,590,1193,317,320,1272
+South Korea,KOR,2020,100,228,38,58,260
+South Korea,KOR,2021,17,39,4,6,55
+Spain,ESP,2000,10,10,13,,10
+Spain,ESP,2001,15,26,13,4,13
+Spain,ESP,2002,16,20,7,2,11
+Spain,ESP,2003,31,37,20,5,32
+Spain,ESP,2004,17,23,9,5,26
+Spain,ESP,2005,17,16,6,,16
+Spain,ESP,2006,33,26,20,7,25
+Spain,ESP,2007,34,26,25,5,31
+Spain,ESP,2008,39,48,24,13,49
+Spain,ESP,2009,31,49,21,8,46
+Spain,ESP,2010,57,73,26,23,104
+Spain,ESP,2011,52,87,25,22,89
+Spain,ESP,2012,87,99,39,35,110
+Spain,ESP,2013,62,82,24,25,91
+Spain,ESP,2014,58,88,35,28,107
+Spain,ESP,2015,24,45,14,7,43
+Spain,ESP,2016,23,43,13,10,54
+Spain,ESP,2017,18,36,10,6,31
+Spain,ESP,2018,20,31,11,10,38
+Spain,ESP,2019,10,20,2,3,26
+Spain,ESP,2020,6,12,1,4,19
+Spain,ESP,2021,3,6,,,6
+Sweden,SWE,2000,3,5,2,2,3
+Sweden,SWE,2001,1,1,1,,
+Sweden,SWE,2002,5,5,3,1,4
+Sweden,SWE,2003,2,2,1,,2
+Sweden,SWE,2005,2,2,2,,3
+Sweden,SWE,2007,2,3,1,2,2
+Sweden,SWE,2008,2,5,1,1,6
+Sweden,SWE,2009,16,15,2,3,12
+Sweden,SWE,2010,18,13,8,3,21
+Sweden,SWE,2011,6,13,4,1,6
+Sweden,SWE,2012,9,12,7,2,11
+Sweden,SWE,2013,7,9,4,1,9
+Sweden,SWE,2014,3,8,3,2,7
+Sweden,SWE,2015,11,20,4,7,26
+Sweden,SWE,2016,11,18,5,2,16
+Sweden,SWE,2017,5,19,5,4,15
+Sweden,SWE,2018,7,27,5,2,23
+Sweden,SWE,2019,4,16,1,2,7
+Sweden,SWE,2020,3,5,,1,5
+Sweden,SWE,2004,,1,,,
+Sweden,SWE,2006,,4,1,,2
+Switzerland,CHE,2001,1,1,1,1,1
+Switzerland,CHE,2006,1,2,3,,1
+Switzerland,CHE,2008,2,1,2,,2
+Switzerland,CHE,2009,1,5,1,2,6
+Switzerland,CHE,2010,1,1,1,1,4
+Switzerland,CHE,2011,4,3,4,1,8
+Switzerland,CHE,2013,3,3,2,1,4
+Switzerland,CHE,2014,2,2,1,1,2
+Switzerland,CHE,2015,2,4,1,1,5
+Switzerland,CHE,2016,3,4,,1,4
+Switzerland,CHE,2017,4,5,2,1,6
+Switzerland,CHE,2018,7,12,,1,18
+Switzerland,CHE,2019,3,5,1,3,6
+Switzerland,CHE,2020,2,4,,2,8
+Switzerland,CHE,2005,,1,,,
+Switzerland,CHE,2007,,1,1,,2
+Switzerland,CHE,2012,,,,,1
+Taiwan,TWN,2000,13,31,14,5,13
+Taiwan,TWN,2001,13,23,11,3,10
+Taiwan,TWN,2002,17,26,18,1,15
+Taiwan,TWN,2003,21,28,22,6,17
+Taiwan,TWN,2004,20,43,16,6,15
+Taiwan,TWN,2005,9,38,7,3,18
+Taiwan,TWN,2006,15,49,14,4,20
+Taiwan,TWN,2007,17,44,13,8,25
+Taiwan,TWN,2008,22,44,15,10,33
+Taiwan,TWN,2009,26,69,17,2,37
+Taiwan,TWN,2010,59,95,38,22,92
+Taiwan,TWN,2011,99,190,45,37,123
+Taiwan,TWN,2012,115,206,66,48,143
+Taiwan,TWN,2013,50,138,41,19,71
+Taiwan,TWN,2014,53,151,47,28,79
+Taiwan,TWN,2015,58,107,34,20,81
+Taiwan,TWN,2016,40,109,33,20,76
+Taiwan,TWN,2017,56,127,43,19,76
+Taiwan,TWN,2018,92,227,50,55,252
+Taiwan,TWN,2019,61,94,24,24,106
+Taiwan,TWN,2020,19,45,11,10,41
+Tunisia,TUN,2014,,1,,,
+Tunisia,TUN,2007,,,1,,1
+Tunisia,TUN,2011,,,,,1
+Tunisia,TUN,2016,,,,,1
+Tunisia,TUN,2018,,,,,1
+Turkey,TUR,2008,1,1,1,,
+Turkey,TUR,2009,1,3,,,
+Turkey,TUR,2010,1,1,1,,4
+Turkey,TUR,2011,3,5,2,1,5
+Turkey,TUR,2014,1,1,3,1,4
+Turkey,TUR,2015,2,4,4,1,4
+Turkey,TUR,2017,3,6,2,,5
+Turkey,TUR,2018,1,1,,,1
+Turkey,TUR,2019,3,4,,,7
+Turkey,TUR,2001,,1,,,
+Turkey,TUR,2003,,1,,,
+Turkey,TUR,2004,,1,,,1
+Turkey,TUR,2007,,1,,,4
+Turkey,TUR,2013,,4,1,1,
+Turkey,TUR,2016,,4,2,1,1
+Turkey,TUR,2020,,,1,,1
+Turkey,TUR,2012,,,,1,
+Turkey,TUR,2002,,,,,1
+Ukraine,UKR,2005,1,1,,,
+Ukraine,UKR,2009,1,1,,,2
+Ukraine,UKR,2015,1,1,,,4
+Ukraine,UKR,2001,,2,,,
+Ukraine,UKR,2012,,1,,,1
+Ukraine,UKR,2013,,2,1,,5
+Ukraine,UKR,2019,,1,,,
+Ukraine,UKR,2003,,,2,,
+Ukraine,UKR,2004,,,1,,
+Ukraine,UKR,2006,,,2,1,
+Ukraine,UKR,2007,,,3,,
+Ukraine,UKR,2008,,,1,,
+Ukraine,UKR,2014,,,1,,
+Ukraine,UKR,2002,,,,,1
+Ukraine,UKR,2010,,,,,1
+Ukraine,UKR,2016,,,,,2
+Ukraine,UKR,2017,,,,,1
+Ukraine,UKR,2018,,,,,1
+United Kingdom,GBR,2000,9,11,5,4,12
+United Kingdom,GBR,2001,15,16,12,3,12
+United Kingdom,GBR,2002,15,22,8,4,13
+United Kingdom,GBR,2003,13,20,5,4,17
+United Kingdom,GBR,2004,15,25,9,3,30
+United Kingdom,GBR,2005,17,24,16,6,18
+United Kingdom,GBR,2006,16,18,18,2,13
+United Kingdom,GBR,2007,21,24,18,5,21
+United Kingdom,GBR,2008,36,41,28,9,31
+United Kingdom,GBR,2009,40,45,27,11,53
+United Kingdom,GBR,2010,50,50,38,13,45
+United Kingdom,GBR,2011,39,47,20,10,41
+United Kingdom,GBR,2012,80,98,36,19,111
+United Kingdom,GBR,2013,71,84,46,26,94
+United Kingdom,GBR,2014,67,81,36,19,79
+United Kingdom,GBR,2015,73,118,32,25,90
+United Kingdom,GBR,2016,70,98,33,24,87
+United Kingdom,GBR,2017,72,97,35,40,100
+United Kingdom,GBR,2018,71,112,23,34,134
+United Kingdom,GBR,2019,33,81,13,19,82
+United Kingdom,GBR,2020,10,38,2,3,32
+United States,USA,2000,264,318,177,51,244
+United States,USA,2001,242,307,160,46,185
+United States,USA,2002,296,389,230,71,252
+United States,USA,2003,292,419,227,64,296
+United States,USA,2004,275,420,192,48,289
+United States,USA,2005,365,578,277,77,347
+United States,USA,2006,484,754,364,90,476
+United States,USA,2007,664,949,488,146,713
+United States,USA,2008,861,1039,487,228,773
+United States,USA,2009,900,1232,467,252,1038
+United States,USA,2010,1091,1715,671,387,1404
+United States,USA,2011,1626,2482,1029,634,2156
+United States,USA,2012,1746,2555,1104,703,2271
+United States,USA,2013,1589,2548,1009,650,2055
+United States,USA,2014,1661,2703,969,653,2169
+United States,USA,2015,1536,2614,899,602,1986
+United States,USA,2016,1648,2754,889,661,2359
+United States,USA,2017,1777,2976,1003,646,2491
+United States,USA,2018,1753,2942,909,687,2525
+United States,USA,2019,1717,2960,875,734,2779
+United States,USA,2020,801,1653,500,430,1471
+United States,USA,2021,79,127,24,47,142
+Upper-middle-income countries,,2000,61,81,77,17,64
+Upper-middle-income countries,,2001,67,103,62,34,63
+Upper-middle-income countries,,2002,74,116,64,16,75
+Upper-middle-income countries,,2003,157,184,137,44,154
+Upper-middle-income countries,,2004,112,207,131,35,177
+Upper-middle-income countries,,2005,220,264,202,32,215
+Upper-middle-income countries,,2006,416,582,341,90,401
+Upper-middle-income countries,,2007,575,739,432,114,542
+Upper-middle-income countries,,2008,787,942,497,196,726
+Upper-middle-income countries,,2009,755,1065,496,151,841
+Upper-middle-income countries,,2010,1187,1641,740,310,1465
+Upper-middle-income countries,,2011,1635,2438,1175,551,2015
+Upper-middle-income countries,,2012,1728,2547,1209,596,2059
+Upper-middle-income countries,,2013,1629,2534,1129,509,1930
+Upper-middle-income countries,,2014,1663,2588,1290,618,2120
+Upper-middle-income countries,,2015,1695,3446,1412,702,2271
+Upper-middle-income countries,,2016,2391,5751,1849,1135,4523
+Upper-middle-income countries,,2017,3749,9452,2447,1668,8458
+Upper-middle-income countries,,2018,4969,10603,2386,1991,12527
+Upper-middle-income countries,,2019,6555,13716,2490,2194,16492
+Upper-middle-income countries,,2020,5236,12391,1940,1745,14943
+Upper-middle-income countries,,2021,342,869,141,109,1081
+Uruguay,URY,2019,,1,1,1,
+Uruguay,URY,2014,,,,,1
+World,OWID_WRL,2000,914,1197,854,180,933
+World,OWID_WRL,2001,974,1383,854,242,905
+World,OWID_WRL,2002,1127,1550,981,228,1118
+World,OWID_WRL,2003,1319,1743,1200,276,1472
+World,OWID_WRL,2004,1098,1612,1007,208,1348
+World,OWID_WRL,2005,1468,2062,1300,259,1387
+World,OWID_WRL,2006,2165,3149,1805,384,2023
+World,OWID_WRL,2007,2783,3573,2180,539,2448
+World,OWID_WRL,2008,3346,4237,2240,856,2942
+World,OWID_WRL,2009,3557,5221,2352,934,4019
+World,OWID_WRL,2010,4900,7566,3194,1582,6069
+World,OWID_WRL,2011,6402,10412,4585,2377,8048
+World,OWID_WRL,2012,6802,10703,4752,2690,8474
+World,OWID_WRL,2013,6071,10138,4260,2176,7334
+World,OWID_WRL,2014,6093,10247,4347,2279,7491
+World,OWID_WRL,2015,5721,10647,4133,2113,7327
+World,OWID_WRL,2016,6647,13250,4573,2635,10663
+World,OWID_WRL,2017,8714,17668,5297,3289,15417
+World,OWID_WRL,2018,10696,19507,5393,3910,20928
+World,OWID_WRL,2019,11365,22334,5008,4145,24769
+World,OWID_WRL,2020,6605,15237,2717,2396,17480
+World,OWID_WRL,2021,473,1115,182,173,1349
